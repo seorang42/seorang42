@@ -50,56 +50,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧑‍💻 dev:meet
-
-**기간**  
-2025.12 – 2026.02  
-
-**역할**  
-PM · 기획 · 디자인 · 프론트엔드 개발  
-
-**소개**  
-화이트보드와 코드 에디터를 통한 **실시간 협업을 지원하는 개발자 특화 화상 회의 서비스**
-
-**기술 스택**  
-`TypeScript` · `React` · `Next.js` · `Zustand` · `Mediasoup` · `Jest` · `Playwright` · `Tailwind CSS` · `Motion`
-
----
-
-### 📋 TaskFlow
-
-**기간**  
-2025.01 – 2025.02  
-
-**역할**  
-기획 · 디자인 · 프론트엔드 개발  
-
-**소개**  
-사내 인프라 자원 요청과 작업 배정 및 진행 현황을 **통합 관리하는 인프라팀 운영 플랫폼**
-
-**기술 스택**  
-`TypeScript` · `Vue.js` · `Vite` · `Pinia` · `Tanstack Query` · `Axios` · `Chart.js` · `Vue.Draggable` · `Tailwind CSS`
-
----
-
-### 🤖 CodingText
-
-**기간**  
-2024.09 – 2024.12  
-
-**역할**  
-기획 · 디자인 · 프론트엔드 리더  
-
-**소개**  
-초보 개발자를 위한 **AI 기반 코딩테스트 및 학습 기록 블로그 서비스**
-
-**기술 스택**  
-`TypeScript` · `React` · `Next.js` · `Zustand` · `Tanstack Query` · `React Hook Form` · `Axios` · `CodeMirror` · `TipTap` · `Tailwind CSS` · `Motion`
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
